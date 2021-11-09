@@ -55,13 +55,10 @@
 
 # Seven Element Security Model
 
-<div style="display: flex; width:100vw">
-    <img src="./Picture1.png" style="width: 50%" />
-    <pre>
-    It contains seven key elements which are inter-linked to compose the system as a whole. 
-        
+<img src="./Picture1.png" />
+
+    It contains seven key elements which are inter-linked to compose the system as a whole.
+
     Each of these elements must be secure in its own right and depends on its neighboring elements to ensure this.
-        
+
     If there is a weakness in any one of the elements, the whole system is insecure and may be attacked/abused through the weak element(s).
-    </pre>
-</div>
