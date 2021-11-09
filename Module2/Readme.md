@@ -45,3 +45,14 @@
     Of course, this poses similar problems to online previewing, but the use of trusted tools goes some way to mitigating these. 
 
     The trusted tools allow the examiner to copy the device to either an external storage device, such as a USB hard disc, or across a network to a dedicated storage server 
+
+# Seven Element Security Model
+<div style="display: flex; width:100vw">
+    <img src="./Picture1.png" style="width: 50%" />
+    
+        It contains seven key elements which are inter-linked to compose the system as a whole. 
+        
+        Each of these elements must be secure in its own right and depends on its neighboring elements to ensure this.
+        
+        If there is a weakness in any one of the elements, the whole system is insecure and may be attacked/abused through the weak element(s). 
+</div>
